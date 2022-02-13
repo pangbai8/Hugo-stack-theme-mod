@@ -84,7 +84,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL:https://waline-three-snowy.vercel.app/
+            serverURL: https://waline-three-snowy.vercel.app/
             lang:
             visitor: true
             avatar:
