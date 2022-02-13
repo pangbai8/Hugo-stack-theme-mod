@@ -1,69 +1,4 @@
 {
-  "documents_meta_info" : {
-    "2022\/0213-Stack-theme-mod.md" : {
-      "title" : "Hugo | Hugo-stack-theme主题魔改版",
-      "description" : "问的人比较多，我又比较懒，干脆做了一套样板间。",
-      "categories" : "",
-      "lastmod" : "2022-02-13T03:02:52+08:00",
-      "raw_metadata_str" : "title: \"Hugo | Hugo-stack-theme主题魔改版\"\ndate: 2022-02-13T03:02:52+08:00\nlastmod: 2022-02-13T03:02:52+08:00\ndescription: 问的人比较多，我又比较懒，干脆做了一套样板间。\ntags:\n  - Hugo\ncategories:\n  - 甘普基本变形定律\nimage: \nslug: stack-theme-mod",
-      "tags" : "",
-      "date" : "2022-02-13T03:02:52+08:00",
-      "slug" : "stack-theme-mod",
-      "image" : "",
-      "url" : "stack-theme-mod"
-    },
-    "2022\/Hello_World.md" : {
-      "draft" : "false",
-      "hidden" : "false",
-      "raw_metadata_str" : "title: \"Hello World\"\ndescription: \ndate: 2022-02-13T21:09:21Z\nimage: \nmath: \nlicense: \nhidden: false\ncategories: 测试\ndraft: false",
-      "math" : "",
-      "categories" : "测试",
-      "image" : "",
-      "title" : "Hello World",
-      "date" : "2022-02-13T21:09:21Z",
-      "description" : "",
-      "license" : ""
-    },
-    "2021\/math-typesetting\/index.md" : {
-      "raw_metadata_str" : "author: Hugo Authors\ntitle: Math Typesetting\ndate: 2019-03-08\ndescription: A brief guide to setup KaTeX\nmath: true",
-      "date" : "2019-03-08",
-      "title" : "Math Typesetting",
-      "description" : "A brief guide to setup KaTeX",
-      "math" : "true",
-      "author" : "Hugo Authors"
-    },
-    "2021\/markdown-syntax\/index.md" : {
-
-    },
-    "2021\/placeholder-text\/index.md" : {
-
-    },
-    "2021\/emoji-support\/index.md" : {
-
-    },
-    "2021\/chinese-test\/index.md" : {
-      "slug" : "test-chinese",
-      "image" : "helena-hertz-wWZzXlDpMog-unsplash.jpg",
-      "date" : "2020-09-09",
-      "url" : "test-chinese",
-      "description" : "这是一个副标题",
-      "raw_metadata_str" : "title: Chinese Test\ndescription: 这是一个副标题\ndate: 2020-09-09\nslug: test-chinese\nimage: helena-hertz-wWZzXlDpMog-unsplash.jpg\ncategories:\n    - Test\n    - 测试",
-      "title" : "Chinese Test",
-      "categories" : ""
-    }
-  },
-  "tags_tags" : {
-
-  },
-  "relative_folders" : [
-    "2022",
-    "2021",
-    "2021\/math-typesetting",
-    "2021\/emoji-support",
-    "2021\/markdown-syntax",
-    "2021\/chinese-test",
-    "2021\/placeholder-text"
-  ],
   "name_path_info" : {
     "hello world" : "2022\/Hello_World.md",
     "index" : "2021\/placeholder-text\/index.md",
@@ -72,8 +7,67 @@
     "math typesetting" : "2021\/math-typesetting\/index.md",
     "hello_world" : "2022\/Hello_World.md"
   },
-  "links_paths" : {
+  "toc_info" : {
+    "2021\/chinese-test\/index.md" : [
+      "0,## 短代码测试",
+      "1,## 正文测试",
+      "2,## 引用",
+      "3,## 图片"
+    ],
+    "2021\/emoji-support\/index.md" : [
 
+    ],
+    "2022\/0213-Stack-theme-mod.md" : [
+      "0,## 使用方式",
+      "1,## 魔改内容",
+      "2,## 部分使用说明",
+      "3,### 引用样式短代码",
+      "4,### 友情链接使用方式",
+      "5,### 修改页尾信息",
+      "6,## 其他常见修改",
+      "7,### 设置博客头像",
+      "8,### 删除博客头像",
+      "9,### 修改博客背景颜色",
+      "10,### 指定首页分类标签颜色",
+      "11,### 配置各类图标",
+      "12,### 其他参考"
+    ],
+    "2021\/math-typesetting\/index.md" : [
+      "0,### Examples"
+    ],
+    "2022\/Hello_World.md" : [
+
+    ],
+    "2021\/markdown-syntax\/index.md" : [
+      "0,## Headings",
+      "1,# H1",
+      "2,## H2",
+      "3,### H3",
+      "4,#### H4",
+      "5,##### H5",
+      "6,###### H6",
+      "7,## Paragraph",
+      "8,## Blockquotes",
+      "9,#### Blockquote without attribution",
+      "10,#### Blockquote with attribution",
+      "11,## Tables",
+      "12,#### Inline Markdown within tables",
+      "13,## Code Blocks",
+      "14,#### Code block with backticks",
+      "15,#### Code block indented with four spaces",
+      "16,#### Code block with Hugo's internal highlight shortcode",
+      "17,#### Diff code block",
+      "18,## List Types",
+      "19,#### Ordered List",
+      "20,#### Unordered List",
+      "21,#### Nested list",
+      "22,## Other Elements — abbr, sub, sup, kbd, mark",
+      "23,## Hyperlinked image"
+    ],
+    "2021\/placeholder-text\/index.md" : [
+      "0,# Vagus elidunt",
+      "1,## Mane refeci capiebant unda mulcebat"
+    ]
   },
   "relative_paths" : [
     "2022\/0213-Stack-theme-mod.md",
@@ -107,21 +101,12 @@
 
     ]
   },
-  "files_mtime_info" : {
-    "2021\/emoji-support\/index.md" : 1644781549,
-    "2022\/0213-Stack-theme-mod.md" : 1644781549,
-    "2021\/math-typesetting\/index.md" : 1644781549,
-    "2021\/chinese-test\/index.md" : 1644781549,
-    "2021\/markdown-syntax\/index.md" : 1644781549,
-    "2021\/placeholder-text\/index.md" : 1644781549,
-    "2022\/Hello_World.md" : 1644786758
-  },
   "documents_info" : {
     "2021\/placeholder-text\/index.md" : {
       "links" : [
         {
-          "name" : "The Van de Graaf Canon",
-          "url" : "https:\/\/en.wikipedia.org\/wiki\/Canons_of_page_construction#Van_de_Graaf_canon"
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Canons_of_page_construction#Van_de_Graaf_canon",
+          "name" : "The Van de Graaf Canon"
         }
       ],
       "images" : [
@@ -143,90 +128,87 @@
       ]
     },
     "2021\/markdown-syntax\/index.md" : {
-      "images" : [
-
-      ],
       "attachments" : [
 
       ],
       "links" : [
         {
-          "url" : "https:\/\/www.youtube.com\/watch?v=PAAkCSZUG1c",
-          "name" : "^1]: The above quote is excerpted from Rob Pike's [talk"
+          "name" : "^1]: The above quote is excerpted from Rob Pike's [talk",
+          "url" : "https:\/\/www.youtube.com\/watch?v=PAAkCSZUG1c"
         },
         {
           "name" : "![Google",
           "url" : "https:\/\/www.google.com\/images\/branding\/googlelogo\/1x\/googlelogo_light_color_272x92dp.png"
         }
+      ],
+      "images" : [
+
       ]
     },
     "2021\/chinese-test\/index.md" : {
-      "attachments" : [
-
+      "links" : [
+        {
+          "name" : "最暖的憂傷 - 田馥甄",
+          "url" : "https:\/\/www.youtube.com\/watch?v=3aypp_YlBzI"
+        },
+        {
+          "url" : "https:\/\/typlog.com\/",
+          "name" : "Typlog"
+        }
       ],
       "images" : [
         {
-          "name" : "Photo by Florian Klauer on Unsplash",
-          "path" : "2021\/chinese-test\/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+          "path" : "2021\/chinese-test\/florian-klauer-nptLmg6jqDo-unsplash.jpg",
+          "name" : "Photo by Florian Klauer on Unsplash"
         },
         {
-          "name" : "Photo by Luca Bravo on Unsplash",
-          "path" : "2021\/chinese-test\/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+          "path" : "2021\/chinese-test\/luca-bravo-alS7ewQ41M8-unsplash.jpg",
+          "name" : "Photo by Luca Bravo on Unsplash"
         },
         {
           "path" : "2021\/chinese-test\/helena-hertz-wWZzXlDpMog-unsplash.jpg",
           "name" : "Photo by Helena Hertz on Unsplash"
         },
         {
-          "path" : "2021\/chinese-test\/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
-          "name" : "Photo by Hudai Gayiran on Unsplash"
+          "name" : "Photo by Hudai Gayiran on Unsplash",
+          "path" : "2021\/chinese-test\/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
         }
-      ],
-      "links" : [
-        {
-          "url" : "https:\/\/www.youtube.com\/watch?v=3aypp_YlBzI",
-          "name" : "最暖的憂傷 - 田馥甄"
-        },
-        {
-          "name" : "Typlog",
-          "url" : "https:\/\/typlog.com\/"
-        }
-      ]
-    },
-    "2021\/math-typesetting\/index.md" : {
-      "images" : [
-
       ],
       "attachments" : [
 
-      ],
+      ]
+    },
+    "2021\/math-typesetting\/index.md" : {
       "links" : [
         {
           "name" : "KaTeX",
           "url" : "https:\/\/katex.org\/"
         },
         {
-          "name" : "Auto-render Extension",
-          "url" : "https:\/\/katex.org\/docs\/autorender.html"
+          "url" : "https:\/\/katex.org\/docs\/autorender.html",
+          "name" : "Auto-render Extension"
         },
         {
           "name" : "Supported TeX Functions",
           "url" : "https:\/\/katex.org\/docs\/supported.html"
         }
-      ]
-    },
-    "2021\/emoji-support\/index.md" : {
+      ],
       "attachments" : [
 
       ],
+      "images" : [
+
+      ]
+    },
+    "2021\/emoji-support\/index.md" : {
       "links" : [
         {
           "name" : "`emojify`",
           "url" : "https:\/\/gohugo.io\/functions\/emojify\/"
         },
         {
-          "name" : "Inline Shortcodes",
-          "url" : "https:\/\/gohugo.io\/templates\/shortcode-templates\/#inline-shortcodes"
+          "url" : "https:\/\/gohugo.io\/templates\/shortcode-templates\/#inline-shortcodes",
+          "name" : "Inline Shortcodes"
         },
         {
           "name" : "configuration",
@@ -236,6 +218,9 @@
           "name" : "Emoji cheat sheet",
           "url" : "http:\/\/www.emoji-cheat-sheet.com\/"
         }
+      ],
+      "attachments" : [
+
       ],
       "images" : [
 
@@ -328,6 +313,90 @@
       ]
     }
   },
+  "documents_meta_info" : {
+    "2022\/0213-Stack-theme-mod.md" : {
+      "title" : "Hugo | Hugo-stack-theme主题魔改版",
+      "description" : "问的人比较多，我又比较懒，干脆做了一套样板间。",
+      "categories" : "",
+      "lastmod" : "2022-02-13T03:02:52+08:00",
+      "raw_metadata_str" : "title: \"Hugo | Hugo-stack-theme主题魔改版\"\ndate: 2022-02-13T03:02:52+08:00\nlastmod: 2022-02-13T03:02:52+08:00\ndescription: 问的人比较多，我又比较懒，干脆做了一套样板间。\ntags:\n  - Hugo\ncategories:\n  - 甘普基本变形定律\nimage: \nslug: stack-theme-mod",
+      "tags" : "",
+      "date" : "2022-02-13T03:02:52+08:00",
+      "slug" : "stack-theme-mod",
+      "image" : "",
+      "url" : "stack-theme-mod"
+    },
+    "2022\/Hello_World.md" : {
+      "draft" : "false",
+      "hidden" : "false",
+      "raw_metadata_str" : "title: \"Hello World\"\ndescription: \ndate: 2022-02-13T21:09:21Z\nimage: \nmath: \nlicense: \nhidden: false\ncategories: 测试\ndraft: false",
+      "math" : "",
+      "categories" : "测试",
+      "image" : "",
+      "title" : "Hello World",
+      "date" : "2022-02-13T21:09:21Z",
+      "description" : "",
+      "license" : ""
+    },
+    "2021\/math-typesetting\/index.md" : {
+      "title" : "Math Typesetting",
+      "description" : "A brief guide to setup KaTeX",
+      "categories" : "",
+      "date" : "2019-03-08",
+      "raw_metadata_str" : "author: Hugo Authors\ntitle: Math Typesetting\ndate: 2019-03-08\ndescription: A brief guide to setup KaTeX\nmath: true\ncategories:\n    - 测试",
+      "math" : "true",
+      "author" : "Hugo Authors"
+    },
+    "2021\/markdown-syntax\/index.md" : {
+
+    },
+    "2021\/placeholder-text\/index.md" : {
+
+    },
+    "2021\/emoji-support\/index.md" : {
+
+    },
+    "2021\/chinese-test\/index.md" : {
+      "slug" : "test-chinese",
+      "url" : "test-chinese",
+      "title" : "Chinese Test",
+      "image" : "helena-hertz-wWZzXlDpMog-unsplash.jpg",
+      "description" : "这是一个副标题",
+      "raw_metadata_str" : "title: Chinese Test\ndescription: 这是一个副标题\ndate: 2020-09-09\nslug: test-chinese\nimage: helena-hertz-wWZzXlDpMog-unsplash.jpg\ncategories:\n    - 测试",
+      "categories" : "",
+      "date" : "2020-09-09"
+    }
+  },
+  "wiki_data_version" : "0.1",
+  "relative_folders" : [
+    "2022",
+    "2021",
+    "2021\/math-typesetting",
+    "2021\/emoji-support",
+    "2021\/markdown-syntax",
+    "2021\/chinese-test",
+    "2021\/placeholder-text"
+  ],
+  "links_paths" : {
+
+  },
+  "files_mtime_info" : {
+    "2021\/emoji-support\/index.md" : 1644787831,
+    "2022\/0213-Stack-theme-mod.md" : 1644781549,
+    "2021\/math-typesetting\/index.md" : 1644787844,
+    "2021\/chinese-test\/index.md" : 1644787786,
+    "2021\/markdown-syntax\/index.md" : 1644787838,
+    "2021\/placeholder-text\/index.md" : 1644787848,
+    "2022\/Hello_World.md" : 1644786758
+  },
+  "filename_path_info" : {
+    "0213-stack-theme-mod" : "2022\/0213-Stack-theme-mod.md",
+    "index" : "2021\/placeholder-text\/index.md",
+    "hello_world" : "2022\/Hello_World.md"
+  },
+  "tags_tags" : {
+
+  },
   "path_name_info" : {
     "2021\/chinese-test\/index.md" : "Chinese Test",
     "2022\/0213-Stack-theme-mod.md" : "Hugo | Hugo-stack-theme主题魔改版",
@@ -337,90 +406,22 @@
     "2021\/emoji-support\/index.md" : "index",
     "2021\/markdown-syntax\/index.md" : "index"
   },
-  "toc_info" : {
-    "2021\/chinese-test\/index.md" : [
-      "0,## 短代码测试",
-      "1,## 正文测试",
-      "2,## 引用",
-      "3,## 图片"
-    ],
-    "2021\/emoji-support\/index.md" : [
-
-    ],
-    "2022\/0213-Stack-theme-mod.md" : [
-      "0,## 使用方式",
-      "1,## 魔改内容",
-      "2,## 部分使用说明",
-      "3,### 引用样式短代码",
-      "4,### 友情链接使用方式",
-      "5,### 修改页尾信息",
-      "6,## 其他常见修改",
-      "7,### 设置博客头像",
-      "8,### 删除博客头像",
-      "9,### 修改博客背景颜色",
-      "10,### 指定首页分类标签颜色",
-      "11,### 配置各类图标",
-      "12,### 其他参考"
-    ],
-    "2021\/math-typesetting\/index.md" : [
-      "0,### Examples"
-    ],
-    "2022\/Hello_World.md" : [
-
-    ],
-    "2021\/markdown-syntax\/index.md" : [
-      "0,## Headings",
-      "1,# H1",
-      "2,## H2",
-      "3,### H3",
-      "4,#### H4",
-      "5,##### H5",
-      "6,###### H6",
-      "7,## Paragraph",
-      "8,## Blockquotes",
-      "9,#### Blockquote without attribution",
-      "10,#### Blockquote with attribution",
-      "11,## Tables",
-      "12,#### Inline Markdown within tables",
-      "13,## Code Blocks",
-      "14,#### Code block with backticks",
-      "15,#### Code block indented with four spaces",
-      "16,#### Code block with Hugo's internal highlight shortcode",
-      "17,#### Diff code block",
-      "18,## List Types",
-      "19,#### Ordered List",
-      "20,#### Unordered List",
-      "21,#### Nested list",
-      "22,## Other Elements — abbr, sub, sup, kbd, mark",
-      "23,## Hyperlinked image"
-    ],
-    "2021\/placeholder-text\/index.md" : [
-      "0,# Vagus elidunt",
-      "1,## Mane refeci capiebant unda mulcebat"
-    ]
-  },
   "words_info" : {
-    "2021\/placeholder-text\/index.md" : 372,
+    "2021\/placeholder-text\/index.md" : 370,
     "2022\/0213-Stack-theme-mod.md" : 1312,
-    "2021\/chinese-test\/index.md" : 1033,
-    "2021\/math-typesetting\/index.md" : 216,
+    "2021\/chinese-test\/index.md" : 1032,
+    "2021\/math-typesetting\/index.md" : 219,
     "2022\/Hello_World.md" : 36,
     "2021\/markdown-syntax\/index.md" : 624,
-    "2021\/emoji-support\/index.md" : 221
+    "2021\/emoji-support\/index.md" : 222
+  },
+  "toc_hash_info" : {
+
   },
   "todo_list" : {
 
   },
   "links_backward_paths" : {
 
-  },
-  "toc_hash_info" : {
-
-  },
-  "wiki_data_version" : "0.1",
-  "filename_path_info" : {
-    "0213-stack-theme-mod" : "2022\/0213-Stack-theme-mod.md",
-    "index" : "2021\/placeholder-text\/index.md",
-    "hello_world" : "2022\/Hello_World.md"
   }
 }
