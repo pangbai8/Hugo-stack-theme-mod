@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://coelacanth.vercel.app
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: 我是真实的
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -38,8 +38,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji:
+        subtitle: Sic mundus creatus est.
         avatar:
             enabled: true
             local: true
@@ -195,7 +195,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/pangbai8
           params:
               icon: brand-github
 
@@ -233,3 +233,6 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+## Possible options "yaml", "toml" or "json"
+metaDataFormat: "yaml"
