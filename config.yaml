@@ -55,7 +55,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname:
@@ -84,12 +84,17 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL:
-            lang:
-            visitor:
+            serverURL:https://waline-three-snowy.vercel.app/
+            lang: zh-CN
+            visitor: true
             avatar:
             emoji:
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji
+                - https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs
+                - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
             requiredMeta:
                 - name
                 - email
