@@ -2,7 +2,7 @@ baseurl: https://coelacanth.vercel.app
 languageCode: en-us
 theme: stack
 paginate: 5
-title: 我是真实的
+title: 我 是 真 实 的
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
