@@ -1,4 +1,5 @@
 baseurl: https://coelacanth.vercel.app
+enableGitInfo: true
 languageCode: en-us
 theme: stack
 paginate: 5
@@ -20,7 +21,7 @@ hasCJKLanguage: true
 
 timeZone: Europe/London
 
-enableGitInfo: true
+
 
 frontmatter:
   lastmod: [":git", "lastmod"]
