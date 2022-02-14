@@ -7,7 +7,6 @@ tags:
   - Hugo
 categories:
   - 甘普基本变形定律
-image: 
 slug: stack-theme-mod
 
 ---
