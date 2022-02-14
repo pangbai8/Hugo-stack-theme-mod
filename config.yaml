@@ -20,6 +20,8 @@ hasCJKLanguage: true
 
 timeZone: Europe/London
 
+enableGitInfo: true
+
 frontmatter:
   lastmod: [":git", "lastmod"]
 
