@@ -2,7 +2,7 @@
 title: 那么，这便是开始
 description: 
 date: 2022-02-13T21:09:21.000+00:00
-image: 'https://images.squarespace-cdn.com/content/v1/5645d431e4b005556bb55173/35aeba9b-3b1b-4e66-9147-b60bd0760eef/Robert_Delaunay%2C_Hommage_%C3%A0_Bl%C3%A9riot%2C_1914.jpg?format=750w'
+image: 'https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Giorgio_de_Chirico%2C_1914-15%2C_Le_mauvais_g%C3%A9nie_d%E2%80%99un_roi_%28The_Evil_Genius_of_a_King%29%2C_oil_on_canvas%2C_61_%C3%97_50.2_cm%2C_Museum_of_Modern_Art%2C_New_York.jpg/491px-Giorgio_de_Chirico%2C_1914-15%2C_Le_mauvais_g%C3%A9nie_d%E2%80%99un_roi_%28The_Evil_Genius_of_a_King%29%2C_oil_on_canvas%2C_61_%C3%97_50.2_cm%2C_Museum_of_Modern_Art%2C_New_York.jpg?20150611073715'
 math: 
 hidden: false
 categories:
