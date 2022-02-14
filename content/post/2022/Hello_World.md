@@ -4,7 +4,6 @@ description: 一切开始的都将开始
 date: 2022-02-13T21:09:21.000+00:00
 image: ''
 math: 
-license: 
 hidden: false
 categories:
 - 杂记
