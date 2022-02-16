@@ -18,5 +18,4 @@ image: https://pbs.twimg.com/media/FLjh2X3XsAYQg8_?format=jpg&name=large
 
 **情人节快乐**，祝大家都能放下，所有的一切都是。
 
-Ps:我真的该留下一份记仇清单，以防万一。
 [^1]:neta自戏梦夜谈。老汉，该出新夜了。
