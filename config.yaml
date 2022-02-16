@@ -22,9 +22,6 @@ hasCJKLanguage: true
 timeZone: Europe/London
 
 
-frontmatter:
-  lastmod: [":git", "lastmod"]
-
 permalinks:
     post: /:year/:slug/
     page: /:slug/
